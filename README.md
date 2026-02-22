@@ -4,7 +4,7 @@ This repository serves as a structured template for reproducible research projec
 
 The focus is on transparency, documentation, and reproducibility rather than complex software engineering practices. The structure is intentionally designed to be easy to implement and accessible for researchers in fields such as economics, education, sociology, psychology, and related disciplines.
 
-This template supports workflows in Python and Stata. Python is an open source programming language widely used for data processing, automation, and reproducible research. Stata is a standard software in economics, education research, and the social sciences for statistical analysis and applied empirical work. Other programming languages such as R, Julia, or MATLAB can follow the same directory structure and reproducibility principles. Qualitative research projects can use the same structure by documenting interview guides, coding schemes, transcripts, and analysis procedures in the corresponding folders.
+This template provides example workflows in Python and Stata. Python is an open source programming language widely used for data processing, automation, and reproducible research. Stata is a standard software in economics, education research, and the social sciences for statistical analysis and applied empirical work. Other programming languages such as R, Julia, or MATLAB can follow the same directory structure and reproducibility principles. Qualitative research projects can use the same structure by documenting interview guides, coding schemes, transcripts, and analysis procedures in the corresponding folders.
 
 ## Project Structure
 

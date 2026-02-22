@@ -1,4 +1,4 @@
-name: Project-Template
+name: template-for-reproducible-research-projects
 channels:
   - pytask
   - conda-forge
