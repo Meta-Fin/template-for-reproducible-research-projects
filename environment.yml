@@ -1,0 +1,49 @@
+name: Project-Template
+channels:
+  - pytask
+  - conda-forge
+
+dependencies:
+  - beautifulsoup4
+  - conda-build
+  - geopy
+  - geopandas
+  - ipykernel
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - openpyxl
+  - pandas
+  - pip
+  - pytask>=0.0.13
+  - pytask-latex>=0.0.10
+  - selenium
+  - xlrd
+  - requests
+  - pathlib
+  - seaborn
+  - plotly
+
+  - nltk
+  - wordcloud
+
+
+  - pytest
+  - pytest-cov
+  - python=3.9
+  - python-graphviz
+
+
+  - virtualenv=20.0.33
+
+  - pip:
+
+    - pre-commit
+
+    - sphinx
+    - sphinx-autobuild
+    - sphinx-rtd-theme
+    - sphinxcontrib-bibtex
+
+    - webdriver-manager
+
